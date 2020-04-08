@@ -2559,6 +2559,11 @@ hash.js@^1.0.0, hash.js@^1.0.3:
     inherits "^2.0.3"
     minimalistic-assert "^1.0.1"
 
+herm@^1.0.1:
+  version "1.0.1"
+  resolved "https://registry.npmjs.org/herm/-/herm-1.0.1.tgz#6e81cb905e855f2ffb593faa72982b6a988fc079"
+  integrity sha512-cziXnShODrbMZLJPjj5nypRV3Py1taA0Sgnr0Co7I7Lgann5zN9p/fiXSt2pAMKQQdf/g/mXrercCZkKXPgL7Q==
+
 hmac-drbg@^1.0.0:
   version "1.0.1"
   resolved "https://registry.npmjs.org/hmac-drbg/-/hmac-drbg-1.0.1.tgz#d2745701025a6c775a6c545793ed502fc0c649a1"
